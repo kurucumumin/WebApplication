@@ -40,7 +40,7 @@
     <artifactId>myproject</artifactId>
     <version>1.0-SNAPSHOT</version>
     <scope>system</scope>
-    <systemPath>C:\Users\Pc\Desktop\Waypoint\LocalDevelopmentNew\localdevelopment\target\localdevelopment-1.0-SNAPSHOT.jar</systemPath>
+    <systemPath>C:\Users\Pc\Documents\GitHub\localdevelopment\localdevelopment\target\localdevelopment-1.0-SNAPSHOT.jar</systemPath>
 </dependency>
 
     
